@@ -1,5 +1,6 @@
 path: /content/applied_computer_vision_project_2
-train: annotations
+train: train/images
+train: val/images
 
 names:
   0: laptop
