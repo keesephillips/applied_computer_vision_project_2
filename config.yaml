@@ -1,6 +1,6 @@
-path: /content/applied_computer_vision_project_2
+path: /content/applied_computer_vision_project_2/dataset
 train: train/images
-train: val/images
+val: val/images
 
 names:
   0: laptop
