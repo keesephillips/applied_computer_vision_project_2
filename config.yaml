@@ -1,0 +1,6 @@
+path: /content/applied_computer_vision_project_2
+train: annotations
+
+names:
+  0: laptop
+  1: utensil
